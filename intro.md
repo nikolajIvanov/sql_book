@@ -1,11 +1,16 @@
-# Welcome to your Jupyter Book
+# Willkommen im Jupyter Book für die Vorlesung "Datenbanken Übung"!
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+In diesem Buch finden Sie alle relevanten Informationen zum Thema SQL.
 
-Check out the content pages bundled with this sample book to see more.
+Die SQL Aufgaben werden in DataGrip ausgeführt.
+Download: [DataGrip](https://www.jetbrains.com/datagrip/)
 
-```{tableofcontents}
-```
+Für die Veranstaltung verwerden wir die SQLite Datenbank.
+Alle relevanten Informationen zu SQLite finden Sie [hier](https://www.sqlite.org/index.html).
+
+Installieren Sie SQLite am besten direkt über DataGrip.
+Die Installationsanleitung findet ihr [hier](https://www.jetbrains.com/help/datagrip/connecting-to-a-database.html#connect-to-sqlite).
+
+Bei Fragen können Sie mich gerne per Mail kontaktieren ni012@hdm-stuttgart.de
+
+Viel Spaß beim Lernen!
